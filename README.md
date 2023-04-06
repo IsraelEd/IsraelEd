@@ -6,7 +6,7 @@
   ``` 
 Sou estudante do 3° Ano do ensino médio 
 integrado a Desenvolvimento de Sistemas 
-na Etec de Guarulhos, sempre buscando 
+na Etec de Guarulhos. Sempre buscando 
 aprimorar minhas hablidades. 
   ```
 
