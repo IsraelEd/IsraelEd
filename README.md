@@ -4,7 +4,7 @@
   <img style="margin-top: 40px;" align="right" width="430px" src="https://user-images.githubusercontent.com/81493883/230242436-2c554857-7fc4-41f0-b767-5ecdae54fd80.gif">
 
   ``` 
-Sou estudante do 3°Ano do ensino médio 
+Sou estudante do 3° Ano do ensino médio 
 integrado a Desenvolvimento de Sistemas 
 na Etec de Guarulhos, sempre buscando 
 aprimorar minhas hablidades. 
