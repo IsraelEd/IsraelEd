@@ -11,7 +11,7 @@ aprimorar minhas hablidades.
   ```
 
 
-## <img width="20px" src="https://user-images.githubusercontent.com/81493883/230242436-2c554857-7fc4-41f0-b767-5ecdae54fd80.gif"> Tecnologias que estou estudando atualmente:
+## Estudos ->
   
 <div align="center">
   
